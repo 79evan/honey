@@ -1,2 +1,2 @@
-# honey
+# Honey
 Website for Manuka honey
